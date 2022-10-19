@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T12:13:30 CDT" name="Default suite" finished-at="2022-10-07T12:21:23 CDT" duration-ms="473461">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T12:13:30 CDT" name="Default test" finished-at="2022-10-07T12:21:23 CDT" duration-ms="473461">
+      <class name="testing.FlightTest">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:13:30 CDT" name="browserSetUp" finished-at="2022-10-07T12:15:33 CDT" duration-ms="122784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="FirstTest()[pri:1, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:15:33 CDT" name="FirstTest" finished-at="2022-10-07T12:16:08 CDT" duration-ms="35018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:16:08 CDT" name="Close" finished-at="2022-10-07T12:16:17 CDT" duration-ms="8789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:16:17 CDT" name="browserSetUp" finished-at="2022-10-07T12:17:15 CDT" duration-ms="57321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="SecondTest()[pri:2, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:17:15 CDT" name="SecondTest" finished-at="2022-10-07T12:18:13 CDT" duration-ms="58009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:18:13 CDT" name="Close" finished-at="2022-10-07T12:18:18 CDT" duration-ms="5791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:18:18 CDT" name="browserSetUp" finished-at="2022-10-07T12:19:16 CDT" duration-ms="57204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="AllStepsTest()[pri:3, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:19:16 CDT" name="AllStepsTest" finished-at="2022-10-07T12:21:13 CDT" duration-ms="117733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllStepsTest -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:testing.FlightTest@3023df74]" started-at="2022-10-07T12:21:13 CDT" name="Close" finished-at="2022-10-07T12:21:23 CDT" duration-ms="9745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- testing.FlightTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

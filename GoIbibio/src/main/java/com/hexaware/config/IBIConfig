@@ -1,0 +1,9 @@
+driver = chrome
+URL = https://www.goibibo.com/
+
+from = surat
+to = kochi
+first = Emma
+last = Moreno
+email = hexatester@yopmail.com
+num = 8441230123
